@@ -350,7 +350,7 @@ $l['nat_config_exp'] = '如果您在服务器上使用 NAT 配置，请选择此
 
 $l['logs_level'] = APP.'日志级别';
 $l['logs_level_exp'] = '选定的日志级别将用于错误/调试日志。 <br />日志级别 4 可能包含密码';
-$l['关闭'] = '关闭';
+$l['off'] = '关闭';
 $l['logs_level-4'] = '详细日志';
 
 $l['backup_set'] = '备份设置';
